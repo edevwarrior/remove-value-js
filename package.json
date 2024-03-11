@@ -1,0 +1,35 @@
+{
+	"name": "remove-value-js",
+	"version": "1.0.0",
+	"description": "Remove array item(s) by value",
+	"main": "index.js",
+	"keywords": [
+		"remove",
+		"array",
+		"splice",
+		"value"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/edevwarrior/remove-value-js"
+	},
+	"website": "https://github.com/edevwarrior/remove-value-js.git",
+	"bugs": {
+        "url": "https://github.com/edevwarrior/remove-value-js/issues"
+    },
+	"author": {
+		"name": "makki changel",
+		"email": "makkichangellisxcyvbkdk9dv@outlook.com"
+	},
+	"dependencies": {
+		"tap": "~0.4.8"
+	},
+	"scripts": {
+		"test": "./node_modules/.bin/tap test.js"
+	},
+	"readmeFilename": "README.md",
+	"license": "MIT",
+	"devDependencies": {
+		"eslint": "^8.57.0"
+	}
+}
