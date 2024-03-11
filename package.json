@@ -1,6 +1,6 @@
 {
 	"name": "remove-value-js",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Remove array item(s) by value",
 	"main": "index.js",
 	"keywords": [
@@ -15,13 +15,14 @@
 	},
 	"website": "https://github.com/edevwarrior/remove-value-js.git",
 	"bugs": {
-        "url": "https://github.com/edevwarrior/remove-value-js/issues"
-    },
+		"url": "https://github.com/edevwarrior/remove-value-js/issues"
+	},
 	"author": {
 		"name": "makki changel",
 		"email": "makkichangellisxcyvbkdk9dv@outlook.com"
 	},
 	"dependencies": {
+		"remove-value-js": "^1.0.0",
 		"tap": "~0.4.8"
 	},
 	"scripts": {
